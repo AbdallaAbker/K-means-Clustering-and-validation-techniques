@@ -1,2 +1,3 @@
 # K-means-Clustering-and-validation-techniques
 KMeans Clustering, Elbow method, t-SNE, Silhouette techniques
+The main goal of this practice is to show-case how to assess the quality of clusters created by the kmeans unsupervised machine learning clustering method. Determining the number of clusters in the dataset can be tricky, thus I utilized various evaluation techniques to help understand and build confidence in choosing the value of k (the number of correct clusters). I used the Elbow-method accompanied by t-SNE method to roughly identify the projected clusters, and finally I utilized the Silhouette score and plots created by the YellowBrick library to confirm the value of k. 
